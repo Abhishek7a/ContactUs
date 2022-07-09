@@ -1,0 +1,48 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.background {
+    background: url(background.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 190px;
+    /* color: #fff; */
+    padding: 25px 15px;
+    margin-bottom: 50px;
+    opacity: 0.8;
+}
+.text-center{
+    text-align: center;
+}
+ h2 {
+    font-family: "Dosis", sans-serif;
+    color: #119b8e;
+}
+.text {
+    margin-top: 50px;
+    width: fit-content;
+    border-right: 4px solid black;
+}
+.banner-text{
+    margin: auto;
+    text-align: -webkit-center;
+}
+.container{
+    width: 60%;
+    margin: auto;
+}
+.title-style-2 {
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+.under-line{
+    border-bottom: 3px solid #119b8e;
+}
+.content{
+    font-size: 20px;
+}
+.map{
+    text-align: center;
+    margin-top: 100px;
+}
